@@ -6,7 +6,7 @@ The brain is formed by cortical regions that are associated with different cogni
 
 ----------------- USAGE -----------------------
 
-The code in C provides the complete algorithms to simulate and reproduce all the results reported in the paper "Plastic neural network with transmission delays promotes equivalence between function and structure" published in the Journal Chaos, Solitons $\&$ Fractals
+The code in C provides the complete algorithms to simulate and reproduce all the results reported in the paper "Plastic neural network with transmission delays promotes equivalence between function and structure" published in the Journal Chaos, Solitons, and Fractals
 Volume 171, June 2023, 113480.
 
 Compile and run using:
